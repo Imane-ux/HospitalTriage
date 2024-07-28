@@ -1,0 +1,24 @@
+.error {
+    color: #ff0000;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.navbar {
+    padding: 20px;
+    background-color: rgb(146, 146, 223) !important;
+}
+
+.nav-item {
+    margin-left: 10px;
+}
+
+body {
+    background-color: #aeece9;
+}
+
+.card-header h2 {
+    display: inline-block;
+}
