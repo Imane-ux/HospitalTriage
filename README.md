@@ -3,12 +3,12 @@
   1. Install MAMP or XAMPP and start the servers. Make sure to keep the default ports i.e 8888 for Apache...
   2. Clone or download this project and add it to the htdocs folder under the MAMP Document Root. MAMP>htdocs.
    
-# DB Setup
+### DB Setup
    1. Access phpMyAdmin with this link: http://localhost:8888/phpMyAdmin5/
    2. Add a new database and name it "db_hospital_triage"
    3. After clicking on it, look for the import tab and import the sql file on this project.
 
-### Note if you're getting a database connectivity error. Make sure to keep the db password as "root" if you are also using MAMP. But if you are using XAMPP, you need to modify the database password to empty string "" on the dbconnect.php file under the includes folder: includes>dbconnect.php
+##### Note if you're getting a database connectivity error. Make sure to keep the db password as "root" if you are also using MAMP. But if you are using XAMPP, you need to modify the database password to empty string "" on the dbconnect.php file under the includes folder: includes>dbconnect.php
 
 This project can now be accessed successfully on your local machine through this link: http://localhost:8888/hospitalTriage/
 
