@@ -24,3 +24,28 @@ Use these credentials for Admin Login:
 
 ## Patient User Guide
 As a patient user, you need to register first and retain your username and the 3-letter code that was assigned to you. After that, you will be able to log in to your account and view your waiting time. Once you have completed your treatment, your account will be automatically deleted from our database. You will need to create a new account if you require treatment a second time.
+
+
+## Screenshots of interface:
+
+
+**Patient Registration**
+
+<img width="500" alt="Screenshot 2024-07-28 at 8 09 30 PM" src="https://github.com/user-attachments/assets/e5f52de0-5fec-4a29-b8b6-153ed33be5ed">
+
+
+
+**User/Admin Login**
+
+<img width="500" alt="Screenshot 2024-07-28 at 8 09 53 PM" src="https://github.com/user-attachments/assets/87792bf3-4370-4c04-bc76-1b7aecd81877">
+
+
+
+**Patient Login**
+
+
+<img width="500" alt="Screenshot 2024-07-28 at 8 10 02 PM" src="https://github.com/user-attachments/assets/5ef26b53-7325-4f2b-b96a-1d12359da53e">
+
+
+
+
