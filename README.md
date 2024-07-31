@@ -47,5 +47,13 @@ As a patient user, you need to register first and retain your username and the 3
 <img width="500" alt="Screenshot 2024-07-28 at 8 10 02 PM" src="https://github.com/user-attachments/assets/5ef26b53-7325-4f2b-b96a-1d12359da53e">
 
 
+**Admin profile viewing patient priority list**
+
+
+<img width="500" src="https://github.com/user-attachments/assets/4646856f-8714-4b2f-992a-7ab81d524776">
+
+
+
+
 
 
